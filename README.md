@@ -1,2 +1,2 @@
 # 2048C
-A game clone of 2048 written in python.
+A clone of 2048 game written in python.
